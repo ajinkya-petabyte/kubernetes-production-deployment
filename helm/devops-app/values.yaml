@@ -1,0 +1,5 @@
+image:
+  repository: <dockerhub-username>/devops-k8s-app
+  tag: v1
+
+replicaCount: 2

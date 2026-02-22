@@ -3,6 +3,16 @@ Production-ready containerized application deployment on Kubernetes using Docker
 
 # Kubernetes Production Deployment with Monitoring
 
+## Architecture
+
+This project demonstrates production-grade Kubernetes deployment including:
+
+- Dockerized Flask application
+- Kubernetes deployment with probes and resource limits
+- Horizontal Pod Autoscaler
+- Helm packaging
+- Prometheus and Grafana monitoring stack
+
 ## Features
 - Dockerized application
 - Kubernetes deployment
